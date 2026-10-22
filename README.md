@@ -118,4 +118,4 @@ random sheaves — with formal proofs of each verdict.
 
 ## License
 
-TBD — pick one before publishing (e.g. MIT for code, CC-BY for the research log).
+Apache-2.0 (see `LICENSE`).
