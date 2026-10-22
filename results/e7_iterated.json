@@ -1,0 +1,48 @@
+{
+  "rounds": [
+    {
+      "round": 0,
+      "cluster": 0.15,
+      "exact": 0.058333333333333334
+    },
+    {
+      "round": 1,
+      "cluster": 0.15,
+      "exact": 0.058333333333333334
+    },
+    {
+      "round": 2,
+      "cluster": 0.15,
+      "exact": 0.058333333333333334
+    },
+    {
+      "round": 3,
+      "cluster": 0.15,
+      "exact": 0.058333333333333334
+    }
+  ],
+  "controls": [
+    {
+      "name": "entropic_restarts",
+      "accs": [
+        0.125,
+        0.25,
+        0.125,
+        0.1,
+        0.21666666666666667
+      ]
+    },
+    {
+      "name": "procrustes_iterated",
+      "cluster": 0.21666666666666667,
+      "exact": 0.041666666666666664
+    }
+  ],
+  "base_seed": 49,
+  "summary": {
+    "raw_gw_cluster": 0.15,
+    "best_iterated_sheaf_cluster": 0.15,
+    "improvement": 0.0,
+    "entropic_restart_mean": 0.16333333333333333
+  }
+}

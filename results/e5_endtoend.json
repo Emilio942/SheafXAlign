@@ -1,0 +1,28 @@
+{
+  "gw": {
+    "cluster": 0.19166666666666668,
+    "exact": 0.03333333333333333
+  },
+  "exact_filled": {
+    "rank_d0": 1920,
+    "null_d1": 1920,
+    "dim_H1": 0
+  },
+  "regression": {
+    "filled_slope": 0.5777866068490671,
+    "filled_corr": 0.6595120527686823,
+    "unfilled_slope": 0.0,
+    "unfilled_corr": NaN,
+    "unfilled_median_glue_at_flat": 72.53667074057378
+  },
+  "matching": {
+    "gw_cluster": 0.19166666666666668,
+    "gw_exact": 0.03333333333333333,
+    "procrustes_cluster": 0.075,
+    "procrustes_exact": 0.03333333333333333,
+    "sheaf_unfilled_cluster": 0.19166666666666668,
+    "sheaf_unfilled_exact": 0.03333333333333333,
+    "sheaf_filled_cluster": 0.19166666666666668,
+    "sheaf_filled_exact": 0.03333333333333333
+  }
+}

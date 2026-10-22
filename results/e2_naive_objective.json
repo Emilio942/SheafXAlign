@@ -1,0 +1,238 @@
+{
+  "C1": [
+    {
+      "dim_H1": 0,
+      "L_at_random_x": 29.996825662910442,
+      "L_at_x0": 0.0,
+      "min_is_zero": true
+    },
+    {
+      "dim_H1": 0,
+      "L_at_random_x": 11.29390245110768,
+      "L_at_x0": 0.0,
+      "min_is_zero": true
+    },
+    {
+      "dim_H1": 0,
+      "L_at_random_x": 11.90499225587775,
+      "L_at_x0": 0.0,
+      "min_is_zero": true
+    },
+    {
+      "dim_H1": 0,
+      "L_at_random_x": 97.79987876488264,
+      "L_at_x0": 0.0,
+      "min_is_zero": true
+    },
+    {
+      "dim_H1": 0,
+      "L_at_random_x": 135.9613490411305,
+      "L_at_x0": 0.0,
+      "min_is_zero": true
+    },
+    {
+      "dim_H1": 0,
+      "L_at_random_x": 69.09470996975342,
+      "L_at_x0": 0.0,
+      "min_is_zero": true
+    }
+  ],
+  "C2_regimes": [
+    {
+      "regime": "a_H1pos_Lpos",
+      "dim_H1": 24,
+      "dim_H0": 0,
+      "lambda_min_D0": 0.23158936343912312
+    },
+    {
+      "regime": "b_H1pos_Lzero",
+      "dim_H1": 13,
+      "dim_H0": 13,
+      "lambda_min_D0": -2.5005611137558796e-16
+    },
+    {
+      "regime": "c_H1zero_Lpos",
+      "dim_H1": 0,
+      "dim_H0": 0,
+      "lambda_min_D0": 0.00027628495459516367
+    },
+    {
+      "regime": "d_H1zero_Lzero",
+      "dim_H1": 36,
+      "dim_H0": 36,
+      "lambda_min_D0": 0.0
+    }
+  ],
+  "C3": [
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    },
+    {
+      "dim_H1_before": 0,
+      "dim_H1_after": 0
+    }
+  ],
+  "C2_conclusion_blind_to_H1": true,
+  "C3_summary": {
+    "runs": 40,
+    "dim_H1_changed": 0
+  },
+  "summary": {
+    "C1_all_min_zero": true,
+    "C2_blind": true,
+    "C3_unchanged": true
+  }
+}

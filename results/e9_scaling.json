@@ -1,0 +1,89 @@
+{
+  "sweep": [
+    {
+      "n": 100,
+      "m_unfilled": 1002,
+      "beta1": 803,
+      "H1_unfilled": 3212,
+      "cone_seconds": 0.0013680458068847656,
+      "n_tri_cone": 1002,
+      "exact_H1_cone": 0,
+      "ls_seconds": 0.05971169471740723,
+      "ls_resid": 66.05800435874494
+    },
+    {
+      "n": 200,
+      "m_unfilled": 1987,
+      "beta1": 1588,
+      "H1_unfilled": 6352,
+      "cone_seconds": 0.0028061866760253906,
+      "n_tri_cone": 1987,
+      "exact_H1_cone": 0,
+      "ls_seconds": 0.08333253860473633,
+      "ls_resid": 93.96193417102793
+    },
+    {
+      "n": 400,
+      "m_unfilled": 3960,
+      "beta1": 3161,
+      "H1_unfilled": 12644,
+      "cone_seconds": 0.005925416946411133,
+      "n_tri_cone": 3960,
+      "exact_H1_cone": 0,
+      "ls_seconds": 0.12889933586120605,
+      "ls_resid": 131.50226399702817
+    },
+    {
+      "n": 800,
+      "m_unfilled": 7853,
+      "beta1": 6254,
+      "H1_unfilled": 25016,
+      "cone_seconds": 0.021698713302612305,
+      "n_tri_cone": 7853,
+      "exact_H1_cone": null,
+      "ls_seconds": 0.25136852264404297,
+      "ls_resid": 185.41412156365902
+    },
+    {
+      "n": 1600,
+      "m_unfilled": 15678,
+      "beta1": 12479,
+      "H1_unfilled": 49916,
+      "cone_seconds": 0.026591062545776367,
+      "n_tri_cone": 15678,
+      "exact_H1_cone": null,
+      "ls_seconds": 0.47324466705322266,
+      "ls_resid": 262.9074368952084
+    },
+    {
+      "n": 2000,
+      "m_unfilled": 19536,
+      "beta1": 15537,
+      "H1_unfilled": 62148,
+      "cone_seconds": 0.03433036804199219,
+      "n_tri_cone": 19536,
+      "exact_H1_cone": null,
+      "ls_seconds": 0.6083371639251709,
+      "ls_resid": 293.3170205530785
+    }
+  ],
+  "exact_checks": [
+    {
+      "n": 100,
+      "dim_H1_cone_const": 0
+    },
+    {
+      "n": 200,
+      "dim_H1_cone_const": 0
+    },
+    {
+      "n": 400,
+      "dim_H1_cone_const": 0
+    }
+  ],
+  "summary": {
+    "H1_unfilled_scales_like_g_beta1": true,
+    "cone_construction_linear": true,
+    "exact_zero_at_small_scales": true
+  }
+}
